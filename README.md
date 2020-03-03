@@ -18,6 +18,8 @@ I assume following software's are installed on the machine where this project wi
 
 ● Java 1.8(Path and Class path configured) ● Eclipse(Eclipse IDE for Java Developers or any eclipse to import and execute the project)
 
+● User should already have an account in automationpractice website and shipping address is provided in the account.
+
 ##### Running the tests
 
 ● Open Eclipse->Import the downloaded Project from Github->Wait for eclipse to build the workspace
